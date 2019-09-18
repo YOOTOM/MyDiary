@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.channguyen:rsv:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c336aaf9639c972f6d73762bd6409a88/rsv-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c336aaf9639c972f6d73762bd6409a88/rsv-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.channguyen/rsv/1.0.1/2b28f36de1c843f3ba825c6d8b81833baa693482/rsv-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.channguyen/rsv/1.0.1/e0e01397499811645cca5df69e0ebf3b5c86ffbb/rsv-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
